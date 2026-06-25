@@ -1,0 +1,8 @@
+# 此 repo 用於 GitHub Pages 發佈，是公開的。
+# 只公開 docs/（加密後的網站＋assets 副本）；原始 index.html 與其餘內部資料都不推上去。
+/*
+!/docs/
+!/.gitignore
+
+# macOS 垃圾檔
+.DS_Store
